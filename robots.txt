@@ -1,7 +1,4 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
-Allow: /
+Disallow: 
 
 Sitemap: https://dannycg14.github.io/ejemplo-responsive/sitemap.xml
